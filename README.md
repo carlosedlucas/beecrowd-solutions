@@ -1,2 +1,2 @@
 # beecrowd-solutions
-Repositório de soluções de exercícios do URI Online Judge na linguagem python
+Repositório de soluções de exercícios na linguagem python do Beecrowd, antes chamado de URI Online Judge.
